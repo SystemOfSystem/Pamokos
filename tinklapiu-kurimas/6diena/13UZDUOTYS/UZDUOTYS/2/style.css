@@ -1,0 +1,28 @@
+.item1{
+    grid-area: one;
+}
+.item2{
+    grid-area: two;
+}
+.item3{
+    grid-area: three;
+}
+.item4{
+    grid-area: four;
+}
+.item5{
+    grid-area: five;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: 250px 200px 200px;
+    grid-template-areas:
+    'one two three'
+    'one four five';
+}
+div {
+    margin-left: 40px
+}
+img {
+    width: 100px;
+}

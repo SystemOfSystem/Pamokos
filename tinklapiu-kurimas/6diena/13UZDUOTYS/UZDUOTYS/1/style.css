@@ -1,0 +1,13 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: 200px 300px 240px;
+  grid-template-rows: 400px;
+}
+body {
+    font-family: sans-serif;
+}
+p {
+    font-weight: 40;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+}
