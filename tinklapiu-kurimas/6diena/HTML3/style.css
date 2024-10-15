@@ -1,0 +1,44 @@
+h1,
+h2,
+h4,
+h5{
+  font-weight: 700;
+  font-family: serif;
+  text-align: center;
+  padding-top:10px
+}
+body {
+  background-image: url(Images/beanzzz.jpg);
+}
+.center {
+  max-width: 600px;
+  margin: auto;
+}
+.cover {
+  background-color: #deb887;
+  max-width: 400px;
+  margin-left: 100px;
+}
+hr{
+    border:solid rgb(157, 0, 31);
+    width: 85%;
+}
+img{
+    margin-left: 180px;
+    width: 45px;
+}
+p {
+    padding-left: 15px;
+    line-height: 0.5;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+span {
+    float:right;
+    padding-right: 15px;
+}
+a{
+    padding-left: 145px;
+    text-decoration-line: underline;
+    color: black;
+}
