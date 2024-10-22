@@ -1,0 +1,21 @@
+.cover{
+    display: flexbox;
+    background-color: rgba(132, 132, 132, 0.659);
+    border-radius: 0.5vw;
+    padding: 1vw;   
+    text-align: left;
+    justify-content: center;
+    align-items:center;
+    position:absolute;
+    left:50%;
+    top:55%;
+    transform: translate(-50%, -55%);
+}
+label,input,select{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: transparent;
+    background-color: rgb(255, 255, 255);
+    outline-color: transparent;
+    display: inline-flex;
+}
