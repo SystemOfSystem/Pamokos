@@ -13,3 +13,4 @@ console.log(snaigiu)
 console.log("Suplojimų bus:",suplojimu);
 console.log("Spragtelėjimų bus:",spragtelejimu);
 */
+console.log(typeof('1'+2))

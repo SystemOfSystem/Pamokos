@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+img {
+    -webkit-filter: blur(5px);
+    filter: blur(5px);
+}
+@media screen and (min-width: 774px) { 
+    .box1 {display: none}
+}
+@media screen and (max-width: 774px) { 
+}
